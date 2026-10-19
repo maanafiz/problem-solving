@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.idea/
+*.class
+*.out
+*.exe
+a.out
+.DS_Store
+Thumbs.db
+
+# .NET
+bin/
+obj/
