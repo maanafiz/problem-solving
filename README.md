@@ -23,12 +23,12 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 ## Progress
 
 <!-- PROGRESS:START -->
-**Total: 24** | Easy 7 | Medium 17 | Hard 0
+**Total: 30** | Easy 10 | Medium 20 | Hard 0
 
 | Pattern | Solved |
 |---|---|
 | arrays-hashing | 5 |
-| two-pointers | 0 |
+| two-pointers | 2 |
 | sliding-window | 2 |
 | stack | 3 |
 | binary-search | 1 |
@@ -39,11 +39,11 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 | backtracking | 0 |
 | graphs | 4 |
 | advanced-graphs | 0 |
-| dynamic-programming-1d | 2 |
+| dynamic-programming-1d | 3 |
 | dynamic-programming-2d | 0 |
-| greedy | 2 |
+| greedy | 3 |
 | intervals | 1 |
-| math-bit-manipulation | 0 |
+| math-bit-manipulation | 2 |
 
 | # | Problem | Difficulty | Pattern | Date | Code |
 |---|---|---|---|---|---|
@@ -52,6 +52,8 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | arrays-hashing | 2026-10-18 | [code](problems/01-arrays-hashing/0242-valid-anagram.cs) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | arrays-hashing | 2026-10-16 | [code](problems/01-arrays-hashing/0347-top-k-frequent-elements.cs) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | arrays-hashing | 2026-10-18 | [code](problems/01-arrays-hashing/0560-subarray-sum-equals-k.cs) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | two-pointers | 2026-10-29 | [code](problems/02-two-pointers/0015-3sum.java) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | two-pointers | 2026-10-29 | [code](problems/02-two-pointers/0125-valid-palindrome.java) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | sliding-window | 2026-10-15 | [code](problems/03-sliding-window/0003-longest-substring-without-repeating-characters.cs) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | sliding-window | 2026-10-18 | [code](problems/03-sliding-window/0121-best-time-to-buy-and-sell-stock.cs) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | stack | 2026-10-14 | [code](problems/04-stack/0020-valid-parentheses.cs) |
@@ -66,9 +68,13 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | graphs | 2026-10-17 | [code](problems/11-graphs/0207-course-schedule.cs) |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | graphs | 2026-10-17 | [code](problems/11-graphs/0210-course-schedule-ii.cs) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | graphs | 2026-10-17 | [code](problems/11-graphs/0994-rotting-oranges.cs) |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | dynamic-programming-1d | 2026-10-29 | [code](problems/13-dynamic-programming-1d/0091-decode-ways.java) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | dynamic-programming-1d | 2026-10-28 | [code](problems/13-dynamic-programming-1d/0322-coin-change.java) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | dynamic-programming-1d | 2026-10-19 | [code](problems/13-dynamic-programming-1d/0746-min-cost-climbing-stairs.cs) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | greedy | 2026-10-18 | [code](problems/15-greedy/0053-maximum-subarray.cs) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | greedy | 2026-10-31 | [code](problems/15-greedy/0055-jump-game.java) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Medium | greedy | 2026-10-19 | [code](problems/15-greedy/2938-separate-black-and-white-balls.cs) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | intervals | 2026-10-19 | [code](problems/16-intervals/0056-merge-intervals.cs) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | math-bit-manipulation | 2026-10-30 | [code](problems/17-math-bit-manipulation/0190-reverse-bits.java) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | math-bit-manipulation | 2026-10-30 | [code](problems/17-math-bit-manipulation/0191-number-of-1-bits.java) |
 <!-- PROGRESS:END -->
