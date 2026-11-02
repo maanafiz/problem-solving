@@ -23,7 +23,7 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 ## Progress
 
 <!-- PROGRESS:START -->
-**Total: 30** | Easy 10 | Medium 20 | Hard 0
+**Total: 33** | Easy 13 | Medium 20 | Hard 0
 
 | Pattern | Solved |
 |---|---|
@@ -32,8 +32,8 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 | sliding-window | 2 |
 | stack | 3 |
 | binary-search | 1 |
-| linked-list | 0 |
-| trees | 3 |
+| linked-list | 1 |
+| trees | 5 |
 | tries | 0 |
 | heap-priority-queue | 1 |
 | backtracking | 0 |
@@ -60,8 +60,11 @@ dotnet run scripts/stats.cs                                    # refresh the tab
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | stack | 2026-10-19 | [code](problems/04-stack/0232-implement-queue-using-stacks.cs) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | stack | 2026-10-18 | [code](problems/04-stack/0739-daily-temperatures.cs) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | binary-search | 2026-10-19 | [code](problems/05-binary-search/0033-search-in-rotated-sorted-array.cs) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | linked-list | 2026-11-01 | [code](problems/06-linked-list/0021-merge-two-sorted-lists.java) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | trees | 2026-10-17 | [code](problems/07-trees/0102-binary-tree-level-order-traversal.cs) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | trees | 2026-10-31 | [code](problems/07-trees/0104-maximum-depth-of-binary-tree.java) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | trees | 2026-10-18 | [code](problems/07-trees/0110-balanced-binary-tree.cs) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | trees | 2026-10-31 | [code](problems/07-trees/0226-invert-binary-tree.java) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | trees | 2026-10-17 | [code](problems/07-trees/0236-lowest-common-ancestor-of-a-binary-tree.cs) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | heap-priority-queue | 2026-10-16 | [code](problems/09-heap-priority-queue/0973-k-closest-points-to-origin.cs) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | graphs | 2026-10-16 | [code](problems/11-graphs/0200-number-of-islands.cs) |
